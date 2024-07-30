@@ -1,1 +1,1 @@
-# https---github.com-janiru-swivel-eat-n-split
+# Udemy section 8 practice project ~ eat-n-split
